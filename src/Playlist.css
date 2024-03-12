@@ -1,0 +1,14 @@
+#playlist {
+    color: red;
+    width: 50%;
+    height: 700px;
+    overflow-y: scroll;
+    background-color: antiquewhite;
+    margin: 50px 0;
+    border-radius: 5%;
+}
+.heading {
+    justify-content: center;
+    width: 90%;
+    margin-left: 5%;
+}

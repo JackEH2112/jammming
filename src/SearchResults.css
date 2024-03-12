@@ -1,0 +1,8 @@
+#searchResults {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.heading {
+    text-align: center;
+}
